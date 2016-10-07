@@ -28,6 +28,6 @@ First milestone is terminfo support.
 
 ## License
 
-This project uses the Apache 2.0 license.
+This project as a whole is developed under the Apache 2.0 license. Apache 2.0 is the same license as used for Apache SSHD.
 
-This is the same license as used for Apache SSHD, so you only have one license to worry about for both jmercutio and its main dependency.
+A few files are copyrighted with MIT-style licenses as they draw upon the ncurses for constants and terminal information.
